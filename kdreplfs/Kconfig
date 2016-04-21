@@ -1,0 +1,5 @@
+config DREPL_FS
+	tristate "Dreplfs file system (EXPERIMENTAL)"
+	depends on EXPERIMENTAL
+	help
+	  Dreplfs

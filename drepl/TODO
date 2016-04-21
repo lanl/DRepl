@@ -1,0 +1,7 @@
+- mmap/munmap kdreplfs view files
+- add and remove views and replicas
+- read-only views
+- better support for hardware for views
+	- description of big/little endianness
+	- alignment of data types in structs
+- z-order and hilbert orders for arrays
